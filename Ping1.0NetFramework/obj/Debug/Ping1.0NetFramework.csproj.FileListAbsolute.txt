@@ -1,0 +1,28 @@
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe.config
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.pdb
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.AssemblyReference.cache
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.CoreCompileInputs.cache
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.exe
+D:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.pdb
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe.config
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.pdb
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.AssemblyReference.cache
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.CoreCompileInputs.cache
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.exe
+E:/5INF/SISTEMI/LABORATORIO/Ping1.0NetFramework/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.pdb
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe.config
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.pdb
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.AssemblyReference.cache
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.CoreCompileInputs.cache
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.exe
+E:/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.pdb
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe.config
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.exe
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/bin/Debug/Ping1.0NetFramework.pdb
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.AssemblyReference.cache
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.csproj.CoreCompileInputs.cache
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.exe
+/Users/kianristori/Documents/USB/5INF/SISTEMI/LABORATORIO/Kian Ristori Ping/Ping1.0NetFramework/obj/Debug/Ping1.0NetFramework.pdb
